@@ -1,0 +1,314 @@
+{
+   "couples": {
+      "days": [
+         {
+            "blocks": [
+               {
+                  "cover": "NCO_1_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/pois/andalusia-lounge"
+               },
+               {
+                  "cover": "NCO_1_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/pois/abra-creek-crossing"
+               },
+               {
+                  "cover": "NCO_1_3.jpg",
+                  "title": "daytime.late_afternoon",
+                  "url": "https://www.visitdubai.com/en/pois/the-gold-souk"
+               },
+               {
+                  "cover": "NCO_1_4.jpg",
+                  "title": "daytime.evening",
+                  "url" :  "https://www.visitdubai.com/en/pois/atmosphere"
+               }
+            ]
+         },
+         {
+            "blocks": [
+               {
+                  "cover": "NCO_2_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url": "https://www.visitdubai.com/en/see-thrill-play/adventure/ballooning"
+               },
+               {
+                  "cover": "NCO_2_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/shop-dine-relax/spas/destination-spas"
+               },
+               {
+                  "cover": "NCO_2_3.jpg",
+                  "title": "daytime.afternoon",
+                  "url" : "https://www.visitdubai.com/en/shop-dine-relax/cuisine/celebrity-chefs"
+               },
+               {
+                  "cover": "NCO_2_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/dubai-opera"
+               }
+            ]
+         }
+      ]
+   },
+   "family": {
+      "days": [
+         {
+            "blocks": [
+               {
+                  "cover": "NFA_1_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/articles/family-fun-in-the-desert"
+               },
+               {
+                  "cover": "NFA_1_2.jpg",
+                  "title": "daytime.lunchtime",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/heritage-and-culture/bedouin-life"
+               },
+               {
+                  "cover": "NFA_1_3.jpg",
+                  "title": "daytime.afternoon",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/desert-adventures"
+               },
+               {
+                  "cover": "NFA_1_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/desert-adventures"
+               }
+            ]
+         },
+         {
+            "blocks": [
+               {
+                  "cover": "NFA_2_1.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/entertainment-and-the-arts/theme-and-waterparks"
+               },
+               {
+                  "cover": "NFA_2_2.jpg",
+                  "title": "daytime.lunchtime",
+                  "url"  : "https://www.visitdubai.com/en/see-thrill-play/entertainment-and-the-arts/theme-and-waterparks"
+               },
+               {
+                  "cover": "NFA_2_3.jpg",
+                  "title": "daytime.afternoon",
+                  "url" : "https://www.visitdubai.com/en/articles/saturday-brunch"
+               },
+               {
+                  "cover": "NFA_2_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/the-dubai-fountain"
+               }
+            ]
+         }
+      ]
+   },
+   "adventure": {
+      "days": [
+         {
+            "blocks": [
+               {
+                  "cover": "NAD_1_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url"  : "https://www.visitdubai.com/en/pois/dubai-autodrome"
+               },
+               {
+                  "cover": "NAD_1_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/pois/desert-safari-dubai"
+               },
+               {
+                  "cover": "NAD_1_3.jpg",
+                  "title": "daytime.afternoon",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/hatta"
+               },
+               {
+                  "cover": "NAD_1_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/hatta"
+               }
+            ]
+         },
+         {
+            "blocks": [
+               {
+                  "cover": "NAD_2_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/pois/kite-beach"
+               },
+               {
+                  "cover": "NAD_2_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/pois/al-boom-diving"
+               },
+               {
+                  "cover": "NAD_2_3.jpg",
+                  "title": "daytime.late_afternoon",
+                  "url" : "https://www.visitdubai.com/en/pois/skydive-dubai"
+               },
+               {
+                  "cover": "NAD_2_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/articles/food-trucks"
+               }
+            ]
+         }
+      ]
+   },
+   "culture": {
+      "days": [
+         {
+            "blocks": [
+               {
+                  "cover": "NCU_1_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/heritage-and-culture/bedouin-life"
+               },
+               {
+                  "cover": "NCU_1_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/articles/designs-on-dubai"
+               },
+               {
+                  "cover": "NCU_1_3.jpg",
+                  "title": "daytime.late_afternoon",
+                  "url" : "https://www.visitdubai.com/en/pois/burj-khalifa"
+               },
+               {
+                  "cover": "NCU_1_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/etihad-museum"
+               }
+            ]
+         },
+         {
+            "blocks": [
+               {
+                  "cover": "NCU_2_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/pois/smccu"
+               },
+               {
+                  "cover": "NCU_2_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/pois/abra-creek-crossing"
+               },
+               {
+                  "cover": "NCU_2_3.jpg",
+                  "title": "daytime.afternoon",
+                  "url" : "https://www.visitdubai.com/en/pois/al-fahidi-historical-neighbourhood"
+               },
+               {
+                  "cover": "NCU_2_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/dubai-opera"
+               }
+            ]
+         }
+      ]
+   },
+   "indulge_relax": {
+      "days": [
+         {
+            "blocks": [
+               {
+                  "cover": "NIN_1_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/hotels/hilton-dubai-creek"
+               },
+               {
+                  "cover": "NIN_1_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/shop-dine-relax/spas/hammams"
+               },
+               {
+                  "cover": "NIN_1_3.jpg",
+                  "title": "daytime.late_afternoon",
+                  "url" : "https://www.visitdubai.com/en/pois/etihad-museum"
+               },
+               {
+                  "cover": "NIN_1_4.jpg",
+                  "title": "daytime.evening",
+                  "url": "https://www.visitdubai.com/en/pois/360-bar-lounge-and-club"
+               }
+            ]
+         },
+         {
+            "blocks": [
+               {
+                  "cover": "NIN_2_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/articles/best-rooftop-pools-dubai"
+               },
+               {
+                  "cover": "NIN_2_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/shop-dine-relax/shopping/shopping-malls"
+               },
+               {
+                  "cover": "NIN_2_3.jpg",
+                  "title": "daytime.late_afternoon",
+                  "url" : "https://www.visitdubai.com/en/articles/yoga-spots-in-dubai"
+               },
+               {
+                  "cover": "NIN_2_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/the-dubai-fountain"
+               }
+            ]
+         }
+      ]
+   },
+   "beaches_day": {
+      "days": [
+         {
+            "blocks": [
+               {
+                  "cover": "NBE_1_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/pois/kite-beach"
+               },
+               {
+                  "cover": "NBE_1_2.jpg",
+                  "title": "daytime.lunchtime",
+                  "url" : "https://www.visitdubai.com/en/pois/the-walk-at-jbr"
+               },
+               {
+                  "cover": "NBE_1_3.jpg",
+                  "title": "daytime.afternoon",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/sailing-and-boating"
+               },
+               {
+                  "cover": "NBE_1_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/burj-al-arab"
+               }
+            ]
+         },
+         {
+            "blocks": [
+               {
+                  "cover": "NBE_2_1.jpg",
+                  "title": "daytime.early_morning",
+                  "url" : "https://www.visitdubai.com/en/articles/best-beachside-restaurants-lounges"
+               },
+               {
+                  "cover": "NBE_2_2.jpg",
+                  "title": "daytime.morning",
+                  "url" : "https://www.visitdubai.com/en/pois/xclusive-yachts-sport-fishing-and-yacht-charter"
+               },
+               {
+                  "cover": "NBE_2_3.jpg",
+                  "title": "daytime.lunchtime",
+                  "url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/sailing-and-boating"
+               },
+               {
+                  "cover": "NBE_2_4.jpg",
+                  "title": "daytime.evening",
+                  "url" : "https://www.visitdubai.com/en/pois/sunset-beach"
+               }
+            ]
+         }
+      ]
+   }
+}

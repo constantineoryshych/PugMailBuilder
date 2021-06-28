@@ -1,0 +1,238 @@
+{
+	"daytime": {
+		"early_morning": "الصباح الباكر",
+		"morning": "الصباح",
+		"late_afternoon": "فترة بعد الظهر",
+		"evening": "المساء",
+		"afternoon": "فترة بعد الظهر",
+		"lunchtime": "الغداء"
+	},
+	"couples": {
+		"day0": {
+			"block0": {
+				"text": "استمتع بكوب من القهوة العربية التراثية مع شروق الشمس.",
+				"url" : "https://www.visitdubai.com/ar/pois/andalusia-lounge"
+			},
+			"block1": {
+				"text":"اعبر خور دبي على متن قارب العبرة التراثي قبل أن تستمتع بالغداء في المنطقة التراثية من المدينة.",
+				"url" : "https://www.visitdubai.com/ar/pois/abra-creek-crossing"
+			},
+			"block2":{
+				"text" : "قم بزيارة سوق الذهب في دبي واكتشف أجمل المجوهات والأحجار الكريمة، في واحد من أكبر أسواق الذهب في العالم.",
+				"url" : "https://www.visitdubai.com/ar/pois/the-gold-souk"
+			},
+			"block3": {
+				"text": "استمتع بتناول أشهى المأكولات على ارتفاع 442 متر في \"أتموسفير\"، المطعم الأعلى في العالم.",
+				"url" : "https://www.visitdubai.com/ar/pois/atmosphere"
+			}
+		},
+		"day1": {
+			"block0": {
+				"text" :"حلق فوق صحراء دبي في برحلة عبر منطاد الهواء، واستمتع بالمنظر الرائع لغروب الشمس.",
+				"url" : "https://www.visitdubai.com/ar/see-thrill-play/adventure/ballooning"
+		},
+			"block1":{
+				"text" : "اختر أحد المنتجعات الصحية الراقية في دبي، واستمتع بتجربة استرخاء لا مثيل لها.",
+				"url" : "https://www.visitdubai.com/ar/shop-dine-relax/spas/destination-spas"
+			},
+			"block2": {
+				"text" : "تذوّق أشهى المأكولات العالميّة واستمتع بإطلالة بحريّة مميّزة.",
+				"url" : "https://www.visitdubai.com/ar/shop-dine-relax/cuisine/celebrity-chefs"
+		},
+			"block3":{
+				"text" : "استمتع بالعروض الرائعة والمتنوّعة في دبي أوبرا ولا تفوّت الكثير من الحفلات الغنائية والعروض الكوميديّة.",
+				"url" : "https://www.visitdubai.com/ar/pois/dubai-opera"
+			}
+		}
+	},
+	"family": {
+		"day0": {
+			"block0":{
+				"text" : "توجّه برفقة عائلتك إلى صحراء دبي واستمتع بمغامرة عائلية لا مثيل لها.",
+				"url"  : "https://www.visitdubai.com/ar/articles/family-fun-in-the-desert"
+			},
+			"block1":{
+				"text"	: "اختبر المأكولات التراثية في دبي وتعرف على الثقافة الإماراتية عن قرب. ",
+				"url" : "https://www.visitdubai.com/ar/see-thrill-play/heritage-and-culture/bedouin-life"
+			},
+			"block2": {
+				"text" :"استمتع بالعديد من النشاطات الترفيهية برفقة عائلتك مثل التزلج على الكثبان الرمليّة وقيادة الدراجات الرباعية الدفع.",
+				"url" : "https://www.visitdubai.com/ar/articles/family-fun-in-the-desert"
+			},
+			"block3": {
+				"text" : "استمتع بالمنظر الرائع لغروب الشمس خلف الكثبان الرمليّة، واستعد للتخييم في الصحراء. ",
+				"url"  : "https://www.visitdubai.com/ar/see-thrill-play/adventure/desert-adventures"
+		}
+	},
+		"day1": {
+			"block0": {
+				"text" :	 "اشعر بالانتعاش خلال الطقس الحار في إحدى الحدائق المائية الرائعة في دبي. ",
+				"url" : "https://www.visitdubai.com/ar/see-thrill-play/entertainment-and-the-arts/theme-and-waterparks"
+		},
+			"block1":{
+				"text" :	"استمتع بأروع اللحظات برفقة عائلتك وتذوّق ألذّ النكهات في مجموعة من المطاعم المميّزة في دبي.",
+				"url" : "https://www.visitdubai.com/ar/articles/saturday-brunch"
+			},
+			"block2":{
+				"text" :  "قم بزيارة دبي أكواريوم وحديقة الحيوانات المائيّة واستمتع بأوقات لا تُنسى.",
+				"url"  : "https://www.visitdubai.com/ar/pois/dubai-aquarium-and-underwater-zoo"
+		},
+			"block3":{
+				"text" : "لا تفوّت العرض الرائع والمميّز لنافورة دبي الراقصة قرب برج خليفة.",
+				"url"  : "https://www.visitdubai.com/ar/pois/the-dubai-fountain"
+		}
+	}
+	},
+	"adventure": {
+		"day0": {
+			"block0":{
+				"text" : "اربط حزام الأمان وجرِّب متعة قيادة السيارات في \"دبي أوتودروم\" في تجربة لن تنساها أبداً.",
+				"url" : "https://www.visitdubai.com/ar/pois/dubai-autodrome"
+		},
+			"block1":{
+				"text" : "استمتع بمغامرة رائعة مع رحلة مميّزة عبر الكثبان الرمليّة في صحراء دبي. ",
+				"url" : "https://www.visitdubai.com/ar/pois/desert-safari-dubai"
+		},
+			"block2":{
+				"text" : "اكتشف جبال حتى في دبي، واستمتع بنزهة رائعة أثناء تسلق المناطق الجبليّة.",
+				"url" : "https://www.visitdubai.com/ar/see-thrill-play/hatta"
+		},
+			"block3":{
+				"text" : "اابتعد عن صخب المدينة وخيّم في الصحراء وتأمل النجوم برفقة الأصدقاء. ",
+				"url" : "https://www.visitdubai.com/en/see-thrill-play/hatta"
+			}
+		},
+		"day1": {
+			"block0": {
+				"text" : "توجّه إلى شاطئ \"كايت بيتش\" خلال الفترة الصباحية ومارس رياضة ركوب الأمواج أو التجديف.",
+				"url" : "https://www.visitdubai.com/ar/pois/kite-beach"
+		},
+			"block1":{
+				"text" : "انطلق في مغامرة مميزة لاكتشاف العالم تحت سطح الماء، وجرب الغوص بمساعدة أحد مراكز التدريب المحليّة.",
+				"url" : "https://www.visitdubai.com/ar/pois/al-boom-diving"
+		},
+			"block2": {
+				"text" : "اقفز من الطائرة واختبر تجربة القفز المظلي فوق نخلة جميرا التي تُعتبر من أفضل مناطق العالم لممارسة هذه الرياضة.",
+				"url" : "https://www.visitdubai.com/ar/pois/skydive-dubai"
+		},
+			"block3": {
+				"text" : "توجه إلى إحدى شاحنات الطعام المتنوّعة في دبي، واستمتع بوجبة شهيّة مع غروب الشمس.",
+				"url"  : "https://www.visitdubai.com/ar/articles/food-trucks"
+			}
+		}
+	},
+	"culture": {
+		"day0": {
+			"block0": {
+				"text" : "استمتع برحلة إلى صحراء دبي برفقة مجموعة من المواطنين الإماراتيين الذين سيخبروك بالعديد من القصص حول تاريخ دولة الإمارات.",
+				"url"  : "https://www.visitdubai.com/ar/articles/food-trucks"
+		},
+			"block1":{
+				"text" : "اكتشف الفنّ العربي التراثي بما في ذلك الزخرفة وديكوروات الجدران، والسجاد والحنة.",
+				"url"  : "https://www.visitdubai.com/ar/articles/designs-on-dubai"
+		},
+			"block2":{
+				"text" : "تعرف على برج خليفة، البرج الأطول في العالم وحاول التقاط صورة مميزة له!",
+				"url"  : "https://www.visitdubai.com/ar/pois/burj-khalifa"
+		},
+			"block3":{
+				"text" : "لا تفوّت زيارة متحف الاتحاد الذي يروي تاريخ دولة الإمارات منذ قيامها في العالم 1971.",
+				"url"  : "https://www.visitdubai.com/ar/pois/etihad-museum"
+		}
+		},
+		"day1": {
+			"block0":{
+				"text" : "استمتع بفطور شهيّ مركز الشيخ محمّد للتواصل الحضاري وتعرّف أكثر على الثقافة الإماراتية.",
+				"url"  : "https://www.visitdubai.com/ar/pois/smccu"
+		},
+			"block1":{
+				"text" : "اعبر خور دبي على متن قارب العبرة التراثي وتحدّث إلى التجار في حين تفتح الأسواق أبوابها للزوّار.",
+				"url"  : "https://www.visitdubai.com/ar/pois/smccu"
+		},
+			"block2":{
+				"text" : "تناول طعام الغداء في حيّ الفهيدي التاريخيّ الذي يعتبر واحداً من أقدم المناطق في دبي.",
+				"url"  : "https://www.visitdubai.com/ar/pois/al-fahidi-historical-neighbourhood"
+		},
+			"block3": {
+				"text" : "لا تفوّت زيارة دبي أوبرا للاستمتاع بالعروض الرائعة والمتنوّعة مثل الحفلات الغنائية والعروض الكوميدية.",
+				"url" : "https://www.visitdubai.com/ar/pois/dubai-opera"
+		}
+	}
+	},
+	"indulge_relax": {
+		"day0": {
+			"block0": {
+				"text" : "تناول طعام الفطور واستمتع بمنظر بانورامي لخور دبي من شرفة الغرفة الخاصة بك.",
+				"url"  : "https://www.visitdubai.com/ar?missingtranslation=true"
+		},
+			"block1":{
+				"text" : "اختر أحد المنتجعات الصحية الراقية في دبي، واستمتع بتجربة استرخاء لا مثيل لها. ",
+				"url" : "https://www.visitdubai.com/ar/shop-dine-relax/spas/hammams"
+		},
+			"block2": {
+				"text" : "قم بزيارة متحف الاتحاد الذي يروي تاريخ دولة الإمارات منذ قيامها في العام 1971.",
+				"url" : "https://www.visitdubai.com/ar/pois/etihad-museum"
+		},
+			"block3":{
+				"text" :  "تناول طعام العشاء في مطعم 360 واستمتع بالمنظر الرائع لغروب الشمس خلف مياه الخليج العربي.",
+				"url"  : "https://www.visitdubai.com/ar/"
+		}
+		},
+		"day1": {
+			"block0": {
+				"text" : "ابدأ يومك بتناول العصير الطازج قرب حوض السباحة واستمتع بمنظر شروق الشمس الرائع.",
+				"url"  : "https://www.visitdubai.com/ar/articles/best-rooftop-pools-dubai"
+		},
+			"block1": {
+				"text" :  "اختبر تجربة تسوّق لا مثيل لها واستفد من العروض الرائعة في مجموعة كبيرة من المراكز التجارية في دبي.",
+				"url"  : "https://www.visitdubai.com/ar/shop-dine-relax/shopping/shopping-malls"
+		},
+			"block2": {
+				"text" : "مارس رياضة اليوغا في أجواء مليئة بالراحة والاسترخاء وتأمل المنظر الرائع لأفق دبي.",
+				"url"  : "https://www.visitdubai.com/ar/articles/yoga-spots-in-dubai"
+		},
+			"block3":{
+				"text" : "استمتع بالمنظر الرائع لنافورة دبي الراقصة التي تعتبر من أكبر وأروع النوافير في العالم، من شرفة أحد المقاهي في داون تاون دبي.",
+				"url"  : "https://www.visitdubai.com/ar/pois/the-dubai-fountain"
+		}
+	}
+	},
+	"beaches_day": {
+		"day0": {
+			"block0":{
+				"text" : "توجه إلى \"كايت بيتش\" قبل شروق الشمس واستمتع بالمنظر الرائع لأفق دبي.",
+				"url"  : "https://www.visitdubai.com/ar/pois/kite-beach"
+		},
+			"block1": {
+				"text" : "تناول طعام الغداء واستمتع بألذ المأكولات وأشهى النكهات.",
+				"url"  : "https://www.visitdubai.com/ar/pois/the-walk-at-jbr"
+		},
+			"block2": {
+				"text" :  "ارفع مستوى الأدرينالين في جسمك واستمتع بممارسة مجموعة من الرياضات المائية الرائعة.",
+				"url"  : "https://www.visitdubai.com/ar/travel-planning"
+		},
+			"block3": {
+				"text" :	"تأمل منظر غروب الشمس قرب برج العرب وتذكر الأوقات الرائعة التي قضيتها قرب الشاطئ خلال اليوم.",
+				"url"  : "https://www.visitdubai.com/ar/pois/burj-al-arab"
+		}
+		},
+		"day1": {
+			"block0": {
+				"text" : "استمتع بتناول فطور شهي مع كوب من القهوة قبل بداية يوم حافل بالنشاطات والمغامرات في دبي.",
+				"url"  : "https://www.visitdubai.com/ar/articles/best-beachside-restaurants-lounges"
+		},
+			"block1":{
+				"text" : "اكتشف دبي واستمتع بالمناظر الرائعة للمدينة في رحلة بحرية مميّزة على متن أحد اليخوت.",
+				"url" : "https://www.visitdubai.com/ar/pois/xclusive-yachts-sport-fishing-and-yacht-charter"
+		},
+			"block2":{
+				"text" : "لا تفوّت تجربة العديد من الرياضات المائية الرائعة في دبي مثل الغوص والإبحار والتزلج على الأمواج.",
+				"url"  : "https://www.visitdubai.com/ar/see-thrill-play/adventure/sailing-and-boating"
+		},
+			"block3": {
+				"text" : "بعد يوم مليء بكلّ ما هو جميع وممتع، ودّع دبي وتأمل منظر غروب الشمس الرائع.",
+				"url"  : "https://www.visitdubai.com/ar/pois/sunset-beach"
+	}
+	}
+}
+}

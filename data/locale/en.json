@@ -1,0 +1,236 @@
+{
+	"daytime": {
+		"early_morning": "Early Morning",
+		"morning": "Morning",
+		"late_afternoon": "Late Afternoon",
+		"evening": "Evening",
+		"afternoon": "Afternoon",
+		"lunchtime": "Lunchtime"
+	},
+	"couples": {
+		"day0": {
+			"block0":{
+				"text" : "Wake up with a warm cup of traditional Arabic coffee (Gahwa) as the sun rises.",
+				"url"  : "https://www.visitdubai.com/en/pois/andalusia-lounge"
+		},
+			"block1":{
+				"text" : "Cross the Dubai Creek on a traditional abra before enjoying lunch in Dubai’s historical district.",
+				"url"  : "https://www.visitdubai.com/en/pois/abra-creek-crossing"
+		},
+			"block2": {
+				"text" :  "Discover glittering gold and precious stones at the Gold Souk, one of the world's largest gold markets.",
+				"url"  : "https://www.visitdubai.com/en/pois/the-gold-souk"
+		},
+			"block3":{
+				"text" : "Dine 442m above ground in At.mosphere, the highest restaurant in the world.",
+				"url"  : "https://www.visitdubai.com/en/pois/atmosphere"
+			}
+		},
+		"day1": {
+				"block0": "Take a hot air balloon ride over the desert, and watch the sun rise over the dunes.",
+				"text" : "https://www.visitdubai.com/en/see-thrill-play/adventure/ballooning"
+		},
+			"block1": {
+				"text" :  "Enjoy relaxation at its finest with a signature experience at one of Dubai's best spas.",
+				"url"  : "https://www.visitdubai.com/en/shop-dine-relax/spas/destination-spas"
+		},
+			"block2": {
+				"text" :  "Take a break for lunch and enjoy international cuisine with a soothing sea view.",
+				"url"  : "https://www.visitdubai.com/en/shop-dine-relax/cuisine/celebrity-chefs"
+		},
+			"block3":{
+				"text" :  "Enjoy the latest show at Dubai Opera, where they have everything from opera to stand-up comedy.",
+			    "url" : "https://www.visitdubai.com/en/pois/dubai-opera"
+		}
+	},
+	"family": {
+		"day0": {
+			"block0": {
+				"text" :  "Take off on a once-in-a-lifetime adventure with the family and explore Dubai’s desert.",
+				"url"  : "https://www.visitdubai.com/en/articles/family-fun-in-the-desert"
+		},
+			"block1":{
+				"text" : "Experience a traditional Bedouin lunch with locals and learn about Emirati heritage.",
+				"url" : "https://www.visitdubai.com/en/see-thrill-play/heritage-and-culture/bedouin-life"
+		},
+			"block2":{
+				"text" : "Enjoy fun desert activities for the whole family, from sandboarding to quad biking.",
+				"url"  : "https://www.visitdubai.com/en/articles/family-fun-in-the-desert"
+		},
+			"block3":{
+				"text" : "Watch the sun set behind the dunes while you set up camp for the night.",
+				"url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/desert-adventures"
+			}
+		},
+		"day1": {
+			"block0":{
+				"text" : "Splash about and escape the heat at one of Dubai’s best waterparks.",
+				"url"  : "https://www.visitdubai.com/en/see-thrill-play/entertainment-and-the-arts/theme-and-waterparks"
+		},
+			"block1":{
+				"text" :"Enjoy precious family moments while dining at one of the city’s award-winning restaurants.",
+				"url"  : "https://www.visitdubai.com/en/articles/saturday-brunch"
+		},
+			"block2": {
+				"text" : "Stop by the Dubai Aquarium & Underwater Zoo for memorable marine moments.",
+				"url"  : "https://www.visitdubai.com/en/pois/dubai-aquarium-and-underwater-zoo"
+ 		},
+			"block3":{
+				"text" : "Make sure to catch the dancing Dubai Fountains - a spectacular sight you won't forget.",
+				"url" : "https://www.visitdubai.com/en/pois/the-dubai-fountain"
+		}
+	}
+	},
+	"adventure": {
+		"day0": {
+			"block0":{
+				"text" : "Fasten your seatbelts and burn rubber at the Dubai Autodrome, with a supercar driving experience.",
+				"url"  : "https://www.visitdubai.com/en/pois/dubai-autodrome"
+		},
+			"block1":{
+				"text" : "Enjoy a breathtaking adventure with a thrilling ride through the desert dunes.",
+				"url"  : "https://www.visitdubai.com/en/pois/desert-safari-dubai"
+		},
+			"block2": {
+				"text" :  "Find the perfect picnic spot while hiking and exploring Hatta’s mountains.",
+				"url"  : "https://www.visitdubai.com/en/see-thrill-play/hatta"
+		},
+			"block3": {
+				"text" : "Escape the busy city and camp out under the stars, sharing stories with friends.",
+				"url"  : "https://www.visitdubai.com/en/see-thrill-play/hatta"
+		}
+	},
+		"day1": {
+			"block0":{
+				"text" : "Enjoy some early morning surfing or paddleboarding in the waters off Kite Beach.",
+				"url"  : "https://www.visitdubai.com/en/pois/kite-beach"
+		},
+			"block1": {
+				"text" : "Embark on an underwater adventure, and go diving with one of the local scuba schools.",
+				"url"  : "https://www.visitdubai.com/en/pois/al-boom-diving"
+		},
+			"block2":{
+				"text" : "Jump out of a plane at one of the world’s best skydiving drop zones above the Palm Jumeirah.",
+				"url"  : "https://www.visitdubai.com/en/pois/skydive-dubai"
+		},
+			"block3": {
+				"text" : "Head to one of the city’s top food trucks for a well-deserved meal at sunset.",
+				"url"  : "https://www.visitdubai.com/en/articles/food-trucks"
+		}
+		}
+	},
+	"culture": {
+		"day0": {
+			"block0": {
+				"text" : "Head off for a desert tour with locals sharing stories of the UAE's past.",
+				"url"  : "https://www.visitdubai.com/en/see-thrill-play/heritage-and-culture/bedouin-life"
+		},
+			"block1": {
+				"text" : "Discover traditional Arabian art, including calligraphy, wall decor, carpets and henna.",
+				"url"  : "https://www.visitdubai.com/en/articles/designs-on-dubai"
+		},
+			"block2":{
+				"text" : "Check out Burj Khalifa, the world’s tallest building, and try to fit it into a photograph.",
+				"url" : "https://www.visitdubai.com/en/pois/burj-khalifa"
+		},
+			"block3": {
+				"text" : "Visit Etihad Museum, which chronicles the history of the UAE since its birth in 1971.",
+				"url"  : "https://www.visitdubai.com/en/pois/etihad-museum"
+		}
+		},
+		"day1": {
+			"block0":{
+				"text" : "Enjoy breakfast at the Sheikh Mohammed Centre for Cultural Understanding (SMCCU), and learn about Emirati culture.",
+				"url"  : "https://www.visitdubai.com/en/pois/smccu"
+		},
+			"block1": {
+				"text" : "Cross the Dubai Creek on an abra and talk to the merchants as the souks open up.",
+				"url"  : "https://www.visitdubai.com/en/pois/abra-creek-crossing"
+		},
+			"block2": {
+				"text" : "Induge in lunch at the Al Fahidi Historical Neighbourhood, one of the oldest areas in Dubai.",
+				"url"  : "https://www.visitdubai.com/en/pois/al-fahidi-historical-neighbourhood"
+		},
+			"block3": {
+				"text" : "Catch the latest show at Dubai Opera, where there's everything from opera to stand-up comedy.",
+				"url"  : "https://www.visitdubai.com/en/pois/dubai-opera"
+		}
+		}
+	},
+	"indulge_relax": {
+		"day0": {
+			"block0":{
+				"text" : "Have breakfast while taking in the panoramic view of the Creek from your private terrace.",
+				"url"  : "https://www.visitdubai.com/en/hotels/hilton-dubai-creek"
+		},
+			"block1":{
+				"text" : "Enjoy relaxation at its finest with a signature experience at one of Dubai's best spas.",
+				"url"  : "https://www.visitdubai.com/en/shop-dine-relax/spas/hammams"
+ 		},
+			"block2":{
+				"text" : "Visit Etihad Museum, which chronicles the history of the UAE since its birth in 1971.",
+				"url"  : "https://www.visitdubai.com/en/pois/etihad-museum"
+		},
+			"block3": {
+				"text" : "Dine out at 360, and watch the sun sinking in to the waters of the Arabian Gulf.",
+				"url" : "https://www.visitdubai.com/en/pois/360-bar-lounge-and-club"
+		}
+		},
+		"day1": {
+			"block0":{
+				"text" :  "Start the day with some fresh juice at the poolside while the sun rises over the city.",
+				"url" : "https://www.visitdubai.com/en/articles/best-rooftop-pools-dubai"
+		},
+			"block1":{
+				"text" : "Shop 'til you drop and find some bargains at one of Dubai’s many malls.",
+				"url"  : "https://www.visitdubai.com/en/shop-dine-relax/shopping/shopping-malls"
+		},
+			"block2":{
+				"text" : "Enjoy a yoga session by the sea and relax while admiring the city’s skyline.",
+				"url" : "https://www.visitdubai.com/en/articles/yoga-spots-in-dubai"
+		},
+			"block3":{
+				"text" : "Take in the Dubai Fountains, the world’s largest and most spectacular choreographed fountains, from a cafe's terrace.",
+				"url" : "https://www.visitdubai.com/en/pois/the-dubai-fountain"
+		}
+		}
+	},
+	"beaches_day": {
+		"day0": {
+			"block0": {
+				"text" : "Head to Kite Beach for a sunrise run",
+				"url" : "https://www.visitdubai.com/en/pois/kite-beach"
+		},
+			"block1":{
+				"text" : "Bite into a delicious beachside lunch ",
+				"url"  : "https://www.visitdubai.com/en/pois/the-walk-at-jbr"
+		},
+			"block2":{
+				"text" : "Get that adrenaline rush with an afternoon of watersports ",
+				"url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/sailing-and-boating"
+		},
+			"block3": {
+				"text" : "Watch the sunset by the Burj Al Arab and look back at a long day on the beach.",
+				"url"  : "https://www.visitdubai.com/en/pois/burj-al-arab"
+		}
+		},
+		"day1": {
+			"block0": {
+				"text" : "Savour a delectable breakfast and coffee before a busy day",
+				"url"  : "https://www.visitdubai.com/en/articles/best-beachside-restaurants-lounges"
+		},
+			"block1":{
+				"text" :  "Take in the sights and sounds of Dubai from a yacht ride",
+				"url"  : "https://www.visitdubai.com/en/pois/xclusive-yachts-sport-fishing-and-yacht-charter"
+ 		},
+			"block2": {
+				"text" : "Dive, sail or jet-ski - take your pick from Dubai's many marine thrills",
+				"url" : "https://www.visitdubai.com/en/pois/xclusive-yachts-sport-fishing-and-yacht-charter"
+		},
+			"block3": {
+				"text" : "Say goodbye with a sunset stroll by the sea",
+				"url" : "https://www.visitdubai.com/en/see-thrill-play/adventure/sailing-and-boating"
+		}
+		}
+	}
+}
